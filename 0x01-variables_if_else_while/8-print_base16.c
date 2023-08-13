@@ -20,7 +20,7 @@ int main(void)
 			digit += 39;
 		digit++;
 	}
-	putchar('/n'0);
+	putchar('/n');
 
 	return (0);
 }
