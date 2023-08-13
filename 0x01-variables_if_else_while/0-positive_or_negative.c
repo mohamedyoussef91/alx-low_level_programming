@@ -2,6 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 
+/**
+ * main - entry point
+ *
+ * Description: true or falst validation
+ *
+ * Return : 0 (success)
+*/
+
 int main(void)
 {
 	int n;
