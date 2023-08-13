@@ -11,8 +11,8 @@
 int main(void)
 {
 	char ch = 'a';
-	
-	while (ch <= 'Z')
+
+	while (ch <= 'z:')
 	{
 		if (ch == 'e' || ch == 'q')
 			ch++;
