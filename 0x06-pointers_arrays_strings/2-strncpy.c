@@ -1,12 +1,9 @@
 #include "main.h"
 
 /**
- * _strncpy - a function that copies a string
- *
+ * _strncpy - a function that copies a string*
  * @dest: pointer to destination input buffer
- *
  * @scr: pointer to source input buffer
- *
  * @n: byets of @src
 */
 
