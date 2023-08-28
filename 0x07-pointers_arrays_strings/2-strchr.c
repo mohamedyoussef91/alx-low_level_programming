@@ -4,14 +4,14 @@
  * *_strchr - fills memory with a constant byte
  * @s: pointer to put the constant
  * @c: constant
- * Return: pionter to s
+ * Return: pionter to 0
 */
 
 char *_strchr(char *s, char c)
 {
 	int itr;
 
-	for (itr = 0; s[itr] >= '\0' ; itr++)
+	for (itr = 0; s[itr] >= '\0'; itr++)
 	{
 			if (s[itr] == c)
 			{
