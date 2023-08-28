@@ -4,7 +4,7 @@
  * *_strchr - fills memory with a constant byte
  * @s: pointer to put the constant
  * @c: constant
- * Return: pionter to 0
+ * Return: pionter to s
 */
 
 char *_strchr(char *s, char c)
